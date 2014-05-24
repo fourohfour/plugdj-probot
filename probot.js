@@ -4,7 +4,7 @@ function log(msg) {
     }, 0);
 }
 
-var x = "OriginNRG"
+var x = ""
 
 function checkDJ() {
     if (!((API.getDJ()["username"]) == x)){
